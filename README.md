@@ -5,4 +5,4 @@ This is a Demo for Github class.
 Zamana
 
 # student
-Sharv (Sigma 6.0)
+Sharv 
